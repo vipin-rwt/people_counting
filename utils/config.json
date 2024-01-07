@@ -1,0 +1,12 @@
+{
+    "Email_Send": "its.urfence@gmail.com",
+    "Email_Receive": "rawat.vipin1203@gmail.com",
+    "Email_Password": "91989764vR@w@t",
+    "url": "",
+    "ALERT": false,
+    "Threshold": 2,
+    "Thread": false,
+    "Log": false,
+    "Scheduler": false,
+    "Timer": false
+}
